@@ -1,0 +1,5 @@
+to jest probny plik 
+jego celem jest wyswietlic wynik dodawania
+wynik dodawania to:
+7.0
+kolejna linia testowa
